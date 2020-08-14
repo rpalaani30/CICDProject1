@@ -11,6 +11,7 @@
 	<groupId>com.CICD</groupId>
 	<artifactId>Project1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<finalName>CICDProjec1</finalName>
 	<packaging>war</packaging>
 	<name>Project1</name>
 	<description>CICD Project1</description>
