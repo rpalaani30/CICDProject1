@@ -33,6 +33,6 @@ public class webControllerTstIT {
     public void getHello() throws Exception {
         ResponseEntity<String> response = template.getForEntity(base.toString(),
                 String.class);
-        assertThat(response.getBody()).isEqualTo("Greetings from CICD Project1!");
+        assertThat(response.getBody()).isEqualTo("<h1>Greetings from CICD Project1!</h1>");
     }
 }
