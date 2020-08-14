@@ -47,7 +47,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>CICDProjec1</finalName>
+		<finalName>CICDProject1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
