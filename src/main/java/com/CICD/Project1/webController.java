@@ -8,7 +8,7 @@ public class webController {
 	
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from CICD Project1!";
+		return "<h1>Greetings from CICD Project1!</h1>";
 	}
 	
 	
